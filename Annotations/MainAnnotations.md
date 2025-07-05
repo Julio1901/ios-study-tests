@@ -79,6 +79,10 @@ final class CalculadoraTests: XCTestCase {
 * Use um padrão de nomenclatura claro que descreva o teste. Por exemplo:  
   * test_nomeDaFuncaoTestada_QuandoAcontecerAlgo_RetornoEsperado  
   * Ficaria algo assim: test_login_whenPasswordIsInvalid_ShouldReturnInvalidStatus      
+  
+  
+  
+# Onde parei: Estava criando um projeto simples usando viper obtendo os dados do jsonPlaceHolder para começar a criar os testes
 
      
  

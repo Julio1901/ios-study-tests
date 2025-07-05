@@ -11,7 +11,7 @@ import SwiftUI
 struct ios_study_testsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PostModuleFactory.make()
         }
     }
 }
