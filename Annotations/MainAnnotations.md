@@ -75,10 +75,10 @@ final class CalculadoraTests: XCTestCase {
 
 ## Boas práticas
 
-• O nome do teste deve começar com o prefixo "test" para o framework executá-lo
-• Use um padrão de nomenclatura claro que descreva o teste. Por exemplo:
-    · test_nomeDaFuncaoTestada_QuandoAcontecerAlgo_RetornoEsperado
-    · Ficaria algo assim: test_login_whenPasswordIsInvalid_ShouldReturnInvalidStatus
+* O nome do teste deve começar com o prefixo "test" para o framework executá-lo  
+* Use um padrão de nomenclatura claro que descreva o teste. Por exemplo:  
+  * test_nomeDaFuncaoTestada_QuandoAcontecerAlgo_RetornoEsperado  
+  * Ficaria algo assim: test_login_whenPasswordIsInvalid_ShouldReturnInvalidStatus      
 
      
  
